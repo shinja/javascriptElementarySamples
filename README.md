@@ -1,2 +1,2 @@
-# javascript_tutorial
+# javascript elementary samples
 Some sample javascript code.
